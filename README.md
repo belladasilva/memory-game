@@ -1,52 +1,29 @@
-# 🎮 Memory Game  
+# Memory Game
 
-A **classic memory matching game** built using **C# and Windows Forms**.  
-Players flip over cards to find matching pairs while tracking their moves and time.  
+A simple C# Windows Forms memory game I built to practice interface development, game logic, and basic state management.
 
----
+## What I worked with
 
-## 🚀 Features  
-✅ **Interactive Gameplay** – Flip cards to find matching pairs.  
-✅ **Randomized Board** – Cards shuffle each time the game starts.  
-✅ **Move Counter** – Tracks the number of moves made.  
-✅ **Timer** – Keeps track of how long the player takes to finish.  
-✅ **Simple UI** – Clean and user-friendly interface using Windows Forms.  
+- C#
+- Windows Forms
+- Game logic
+- Randomized card placement
+- Timer and move tracking
 
----
+## Features
 
-## 🛠️ Tech Stack  
-- **Programming Language:** C#  
-- **Framework:** .NET Windows Forms (WinForms)  
-- **IDE:** Visual Studio  
+- Flip cards to find matching pairs
+- Randomized card positions
+- Move counter
+- Timer
+- Simple win condition
 
----
+## Running the project
 
-## ⚡ How to Run the Game  
+1. Open the project in Visual Studio
+2. Build the solution
+3. Run the application
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/belladasilva/MemoryGame.git
-cd MemoryGame
-```
-### 2️⃣ Open in Visual Studio
-```
-Open MemoryGame.sln in Visual Studio.
-```
-### 3️⃣ Run the Application
-```
-Click the Start button (▶ Debug → Start Without Debugging).
-The game window will open!
-```
+## About
 
-## 📷 Screenshots
-(Coming)
-
-## 🚀 Future Improvements:
-- Improving game logic to detect all matches correctly.
-- Enhancing the win condition to ensure a full game experience.
-
-## 📩 Contact
-For more about me, check out my **GitHub Profile README**:  
-🔗 [github.com/belladasilva](https://github.com/belladasilva)
-
-⭐ If you like this project, give it a star on GitHub! 🌟
+This is an older learning project I built while practicing C# and Windows Forms.
